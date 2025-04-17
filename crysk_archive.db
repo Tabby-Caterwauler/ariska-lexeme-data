@@ -2425,6 +2425,17 @@
 \ng
 \dt 12/Jan/2025
 
+\lx kc
+\ph káʔa
+\ps n
+\ge crow
+
+\lf
+
+\sd Nanim ; new
+\ng
+\dt 18/Apr/2025
+
 \lx kcy
 \ph káʔi
 \ps n
@@ -2548,6 +2559,17 @@
 \ng
 \dt 12/Jan/2025
 
+\lx krwry
+\ph karúri
+\ps n
+\ge ant
+
+\lf
+\le
+\sd Nanim
+\ng
+\dt 18/Apr/2025
+
 \lx krwtw
 \ph kárutu
 \ps n
@@ -2602,14 +2624,14 @@
 
 \lx kty cnty
 \ph káti anáti
-\ps
+\ps v,tr-n
 \ge speak the truth
 
 \lf Ant = kty cyýtw
 \le "lie"
 
 \ng
-\dt 02/Mar/2025
+\dt 18/Apr/2025
 
 \lx kty cyýtw
 \ph káti ijátu
@@ -3320,14 +3342,14 @@
 \ph máma
 \ue children
 \ps
-\ge
+\ge mama
 
 \lf
 \le
 \cf
 \mn mny
 \ng
-\dt 12/Jan/2025
+\dt 18/Apr/2025
 
 \lx mmýņ
 \ph mamájan
@@ -4234,6 +4256,18 @@
 \ng
 \dt 14/Jan/2025
 
+\lx qšty
+\ph kʷáʃti
+\ps n
+\ge mix ; combination
+\re combination
+
+\lf Root = qš
+\le
+
+\ng
+\dt 18/Apr/2025
+
 \lx rcņ
 \ph ráʔan
 \ps v,tr
@@ -4365,6 +4399,7 @@
 \de ask, request, fi:{s.o}
 
 \se - m
+\sf rwc m
 \ps v,tr-prep
 \de ask for, fi:{s.o} for fi:{s.t}
 \lf
@@ -4372,7 +4407,20 @@
 \cf
 
 \ng
-\dt 12/Jan/2025
+\dt 18/Apr/2025
+
+\lx rwcty
+\ph rúʔati
+\ph ruʔáti
+\ps n
+\ge request ; question
+\re question
+
+\lf Root = rwc
+\le
+
+\ng
+\dt 18/Apr/2025
 
 \lx rwk
 \ph rúka
@@ -6406,6 +6454,19 @@ táʃʀuti
 \ng
 \dt 16/Feb/2025
 
+\lx ǧtš
+\va ctš
+\ph gʷátaʃ
+\ph átaʃ
+\ps prep
+\ge by means of
+\ng less direct than fv:tš
+\lf Root = tš
+\le
+
+\ng
+\dt 18/Apr/2025
+
 \lx ǧyh
 \ph gʷíha
 \ps v,in
@@ -6416,9 +6477,9 @@ táʃʀuti
 \lf Root = kyh
 \le
 \cf
-
+\sd new
 \ng
-\dt 06/Mar/2025
+\dt 18/Apr/2025
 
 \lx ǧyny
 \ph gʷíni
