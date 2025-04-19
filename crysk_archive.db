@@ -1327,16 +1327,20 @@
 \lx cýty
 \ph ájati
 \ps n
-\re part
-\re role
+\sn 1
+\ps n
+\ge half
+\de half, of something
+\sn 2
 \ge job ; role
+\re job
 \de role, job
 \lf Root = cý
 \le
 \cf
 \sd new
 \ng
-\dt 13/Feb/2025
+\dt 19/Apr/2025
 
 \lx -cņ
 \ph ʔan
@@ -2402,15 +2406,15 @@
 \ph háwan
 \ps pn
 \sn 1
-\ge one's self
-\sn 2
 \ge each other
 \lf Sim = ŵņ
-\le
+\sn 2
+\ge reflexive pronoun
+\de reflexive pronoun, one's self
 \cf
 
 \ng
-\dt 16/Feb/2025
+\dt 19/Apr/2025
 
 \lx k
 \ph ká
@@ -2712,12 +2716,12 @@
 \re material
 \ge ingredient ; material
 
-\lf
+\lf Root = kwš
 \le
 \cf
 
 \ng
-\dt 12/Jan/2025
+\dt 19/Apr/2025
 
 \lx kwm
 \ph kúma
@@ -2745,16 +2749,19 @@
 \de be clear, easy to understand
 
 \se tņt -
-\ps v,tr
+\sf tņt kwmwņ
+\ps aux-v,tr
 \ge shine into
 \de shine into, fill with light
 
 \se - t
-\ps v,in
+\sf kwmwņ t
+\ps v,in-prep
 \de be easy to understand by fi:{s.o}
 
 \se twý - t
-\ps v,tr
+\sf twý kwmwņ t
+\ps aux-v,tr-prep
 \ge explain
 \de clear up, make fi:{s.t} easier to understand to fi:{s.o}
 \lf Sim = sņtw
@@ -2765,7 +2772,7 @@
 
 
 \ng
-\dt 12/Jan/2025
+\dt 19/Apr/2025
 17/Nov/2024
 
 \lx kwn
@@ -2806,8 +2813,9 @@
 \sn 2
 \ge learn
 
-\se twý - s
-\ps v,tr-prep
+\se twý -
+\sf  twý kwnyý
+\ps aux-v,tr
 \ge teach
 \de teach, make learn, fi:{s.t}
 \lf Sim = sņtw
@@ -2815,7 +2823,7 @@
 \cf
 
 \ng
-\dt 12/Jan/2025
+\dt 19/Apr/2025
 
 \lx kwrwš
 \ph kúruʃ
@@ -2995,13 +3003,13 @@
 \ph kihísa
 \ps n
 \ge moarning knife
-
+\na This type of knife is used to enduce scarification, a culural practice to show mourning of the death of a loved one
 \lf
 \le
 \cf
 \sd Ntool
 \ng
-\dt 16/Feb/2025
+\dt 18/Apr/2025
 
 \lx kymry
 \ph kimári
@@ -3238,9 +3246,9 @@
 \lf
 \le
 \cf
-
+\sd Nanim
 \ng
-\dt 12/Jan/2025
+\dt 18/Apr/2025
 
 \lx kŵy
 \ph káwi
@@ -3913,14 +3921,15 @@
 \lx nmw
 \ph námu
 \ps v,tr
-\ge cut
+\ge cut ; slice
+\re cut
 
 \lf
 \le
 \cf
 
 \ng
-\dt 12/Jan/2025
+\dt 18/Apr/2025
 
 \lx nmwty
 \ph namúti
@@ -3945,12 +3954,14 @@
 \de up, up in
 \sn 3
 \ge before, an event
+\lf Ant = cry
+\le after
 \lf Root = nwc
 \le
 \cf
 
 \ng
-\dt 16/Feb/2025
+\dt 19/Apr/2025
 
 \lx nwc
 \ph núʔa
@@ -6386,11 +6397,35 @@ táʃʀuti
 \ge delicious
 \de be delicious ; be tasty
 
-\lf
+\lf Root = rsy
 \le
 
 \ng
-\dt 02/Mar/2025
+\dt 19/Apr/2025
+
+\lx ǧry
+\va cry
+\ph gʷári
+\ph ári
+\np the form fv:cry is much more common than fv:ǧry amongst the youth
+
+\ps prep
+\sn 1a
+\ge under
+\xv ǧt hņ cry khyyw
+\xe he is under the roof
+\sn 1b
+\ge at the bottom of ; at the lowest point of
+\re at the bottom of
+\sn 2
+\ge after
+\de after, an event
+
+\lf Ant = nw
+\le "before"
+
+\ng
+\dt 19/Apr/2025
 
 \lx ǧryņ
 \ph gʷárin
@@ -6404,7 +6439,8 @@ táʃʀuti
 \lf Root = ryņ
 
 \se - t
-\ps v,in
+\sf ǧryņ t
+\ps v,in-prep
 \sn 1
 \ge come across
 \de come across, stumble upon ; encounter
@@ -6413,7 +6449,7 @@ táʃʀuti
 
 
 \ng
-\dt 12/Jan/2025
+\dt 19/Apr/2025
 
 \lx ǧsšny
 \ph gʷasáʃni
@@ -6424,9 +6460,9 @@ táʃʀuti
 \lf Ant = kmņ
 \le "empty"
 \cf
-
+\lf Root = sšny
 \ng
-\dt 13/Feb/2025
+\dt 19/Apr/2025
 
 \lx ǧt
 \ph gʷáta
@@ -6556,4 +6592,15 @@ táʃʀuti
 
 \ng
 \dt 07/Feb/2025
+
+\lx
+\ph
+\ps
+\ge
+
+\lf
+\le
+
+\ng
+\dt 19/Apr/2025
 
