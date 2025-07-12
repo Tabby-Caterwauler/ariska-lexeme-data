@@ -158,6 +158,7 @@
 \lx ckw-hmy
 \ph áku hámi
 \ps n-n
+\lt edge of the face
 \ge eyebrow ; eye ridge
 
 \lf Syn = hmy1
@@ -165,7 +166,7 @@
 \cf ckw ; hmy1
 \sd Nbody
 \ng
-\dt 16/Feb/2025
+\dt 24/Jun/2025
 
 \lx ckwņ
 \ph akún
@@ -414,13 +415,18 @@
 \ph ákʷa
 \ps adj
 \ge close ; nearby
-
+\ps adv
+\sn 1
+\ge almost ; nearly
+\ng this meaning mainly only shows up in the past tense
+\sn 2
+\ge soon
 \lf
 \le
 \cf
 
 \ng
-\dt 12/Jan/2025
+\dt 23/Jun/2025
 
 \lx cqhy
 \ph akʷáhi
@@ -477,12 +483,12 @@
 \ge stash
 \de stash, place for putting valuables
 
-\lf
+\lf Root = cr
 \le
 \cf
 
 \ng
-\dt 12/Jan/2025
+\dt 19/Apr/2025
 
 \lx cryņ
 \ph arín
@@ -748,6 +754,18 @@
 \ng
 \dt 12/Jan/2025
 
+\lx cwty rw cymņ
+\ph úti rú imán
+\lt blood from stone
+\ps expr
+\ge damn ; what the hell
+
+\lf
+\le
+
+\ng
+\dt 23/Jun/2025
+
 \lx cwxhw
 \ph úxhu
 \ps v,in
@@ -795,9 +813,9 @@
 \lf
 \le
 \cf
-
+\sd new
 \ng
-\dt 12/Jan/2025
+\dt 23/Jun/2025
 
 \lx cxn
 \ph áxna
@@ -1058,6 +1076,24 @@
 \ng
 \dt 12/Jan/2025
 
+\lx cynw hšt
+\ph ínu háʃta
+\ps v,tr-n
+\ge start ; begin
+\se - rw
+\sf cynw hšt rw
+\ps v,tr-n-prep
+\ge start
+\de start, commence, fi:{s.t}
+\xv cwny hk hšt rw ms
+\xe i'm starting on the pot
+
+\lf
+\le
+
+\ng
+\dt 23/Jun/2025
+
 \lx cynwty
 \ph inúti
 \ps nadj
@@ -1219,6 +1255,21 @@
 \re worry about
 \ge be afraid of ; be woried about
 
+\lx cytty
+\ph itáti
+\ps n
+\sn 1
+\ge yell ; call
+\sn 2
+\ge instinct ; beckoning
+
+
+\lf
+\le
+
+\ng
+\dt 23/Jun/2025
+
 \lx cyyw
 \ph ijú
 \ph íju
@@ -1268,6 +1319,21 @@
 \ng
 \dt 12/Jan/2025
 
+\lx cyņwy
+\ph ímwi
+\ps n
+\ge fog
+\ps nadj
+\sn 1
+\ge foggy
+\sn 2
+\ge opaque
+\lf
+\le
+\sd new
+\ng
+\dt 12/Jun/2025
+
 \lx cyškyš
 \ph íʃkiʃ
 \ps n
@@ -1279,6 +1345,17 @@
 \sd Nanim ; new
 \ng
 \dt 13/Feb/2025
+
+\lx cyǧ
+\ph ígʷa
+\ps n
+\ge replica ; copy
+
+\lf
+\le
+
+\ng
+\dt 23/Jun/2025
 
 \lx cý
 \ph ája
@@ -1400,6 +1477,19 @@
 \ng
 \dt 12/Jan/2025
 
+\lx cņtkņ
+\ph antákan
+\ps n
+\ge crazy person
+\ps nadj
+\ge crazy ; deranged
+
+\lf
+\le
+
+\ng
+\dt 23/Jun/2025
+
 \lx cņyw
 \ph ánju
 \ps v,tr
@@ -1433,21 +1523,24 @@
 
 \lx cš
 \ph áʃ
+\sn 1
 \ps adj
 \ge that
 \ps adv
-\sn 1
-\ge there
 \sn 2
+\ge there
+\sn 3
 \ge future marker
 \de optional future marker, has notion of certainty to it
-
+\ps conj
+\sn 4
+\ge thus
 \lf
 \le
 \cf
 
 \ng
-\dt 13/Apr/2025
+\dt 04/Jun/2025
 
 \lx cšr
 \ph áʃʀa
@@ -1652,6 +1745,20 @@
 \xe
 
 \dt 08/Feb/2025
+
+\lx gwyy
+\ph gúji
+\ps v,in
+\ge hang
+\nt only used for inanimate objects, for animate ones, use fv:kwyy
+
+\lf Root = kwyy
+\le
+\lf Syn = kwyy
+\le "hang"
+\sd new
+\ng
+\dt 23/Jun/2025
 
 \lx gyny
 \ph gíni
@@ -1928,6 +2035,24 @@
 \ng
 \dt 13/Feb/2025
 
+\lx hryš
+\ph haríʃ
+\ps v,tr
+\ge trade
+\de purchase, trade, s.t
+\ng the direct object is what you're offering
+\se - m
+\sf hryš m
+\ps v,tr-prep
+\ge trade for ; buy
+\ng the direct object is what you're offering (the direct object is optional), the prepositional object of fv:{m} is what the other is offering
+\xv hryšt rwštw ms ywk hņ m nmwty cxhyš
+\xe the man traded two of his pots for a sharp knife
+\le
+
+\ng
+\dt 23/Jun/2025
+
 \lx hrņ
 \ph háran
 \ps v,in
@@ -2176,7 +2301,7 @@
 \dt 12/Jan/2025
 
 \lx hwwy
-\ph ʍí
+\ph xwí
 \ps v,in
 \ge come
 \ps v,tr
@@ -2196,10 +2321,10 @@
 \cf
 
 \ng
-\dt 12/Jan/2025
+\dt 23/Jun/2025
 
 \lx hwwyty
-\ph ʍíti
+\ph xwíti
 \ps n
 \sn 1
 \ge pattern
@@ -2212,7 +2337,7 @@
 \cf
 
 \ng
-\dt 12/Jan/2025
+\dt 23/Jun/2025
 
 \lx hwņt
 \ph húnta
@@ -2351,6 +2476,19 @@
 \ng
 \dt 08/Feb/2025
 
+\lx hyņý
+\ph hínja
+\ps adj
+\ge young
+\ps adv
+\ge recently
+
+\lf Ant = mw
+\le "old"
+\sd new
+\ng
+\dt 23/Jun/2025
+
 \lx hņ
 \ph hán
 \ph án
@@ -2402,6 +2540,17 @@
 \ng
 \dt 23/Mar/2025
 
+\lx hšt
+\ph háʃta
+\ps n
+\ge start ; beginning
+
+\lf
+\le
+
+\ng
+\dt 23/Jun/2025
+
 \lx hŵņ
 \ph háwan
 \ps pn
@@ -2440,6 +2589,32 @@
 \ng
 \dt 18/Apr/2025
 
+\lx kcwņ
+\ph káʔun
+\ps v,tr
+\ge blame ; accuse
+\re blame
+\de blame, accuse, fi:{s.o} of a crime
+\ng to mention the crime, put it in an adjunct phrase with fv:{mry}
+\xv cn, hwwy kcwņ hk hny mry mny hk hcņ ryņ syrx. cny hny nmwty ǧrw cwty hņ 
+\xe yeah, im going to blame you for my mothers murder; you have the knife with her blood on it 
+\lf
+\le
+
+\ng
+\dt 23/Jun/2025
+
+\lx kcwņty
+\ph kaʔúnti
+\ps n
+\ge crime
+
+\lf Root = kcwņ
+\le
+
+\ng
+\dt 08/Jun/2025
+
 \lx kcy
 \ph káʔi
 \ps n
@@ -2454,6 +2629,17 @@
 
 \ng
 \dt 12/Jan/2025
+
+\lx khr
+\ph kahára
+\ps n
+\ge sweet potatoe ; potatoe
+
+\lf
+\le
+\sd Nplant
+\ng
+\dt 24/Jun/2025
 
 \lx kk
 \ph káka
@@ -2590,6 +2776,20 @@
 \ng
 \dt 12/Jan/2025
 
+\lx ksy
+\ph kási
+\ps n
+\sn 1
+\ge wrist
+\sn 2
+\ge handle
+
+\lf
+\le
+
+\ng
+\dt 23/Jun/2025
+
 \lx kty
 \ph káti
 \sn 1
@@ -2697,6 +2897,17 @@
 
 \ng
 \dt 13/Apr/2025
+
+\lx kwkwyy
+\ph kukúji
+\ps v,tr
+\ge fix ; repair
+
+\lf Root = kwyy
+\le
+
+\ng
+\dt 23/Jun/2025
 
 \lx kwkwš
 \ph kukúʃ
@@ -2909,6 +3120,25 @@
 \ng
 \dt 02/Mar/2025
 
+\lx kwyy
+\ph kúji
+\ps v,tr
+\ge hang ; hang up
+\ps v,in
+\ge hang
+\nt only used for animate nouns, for inanimate nouns haning use  fv:{gwyy}
+\lf Syn = gwyy
+\le "hang"
+\ph
+\ps
+\ge
+
+\lf
+\le
+
+\ng
+\dt 23/Jun/2025
+
 \lx kwņtŵ
 \ph kúntawa
 \ps v,in
@@ -3063,6 +3293,18 @@
 \ng
 \dt 16/Feb/2025
 
+\lx kyņs
+\ph kínsa
+\ps n
+\ge bowel
+\se new
+
+\lf
+\le
+\se
+\ng
+\dt 06/Jul/2025
+
 \lx kyšý
 \ph kíʃja
 \sn 1
@@ -3179,7 +3421,7 @@
 \ph káŋkuti
 \ps n
 \sn 1
-\ge brocken thing
+\ge broken thing
 \sn 2
 \ge mistake
 \lf Root = kņkw
@@ -3187,7 +3429,7 @@
 \cf
 
 \ng
-\dt 12/Jan/2025
+\dt 04/May/2025
 
 \lx kņsý
 \ph kánsaja
@@ -3346,6 +3588,17 @@
 \ng
 \dt 19/Jan/2025
 
+\lx mhwty
+\ph mahúti
+\ps n
+\ge strength
+
+\lf Root = mhw
+\le
+
+\ng
+\dt 23/Jun/2025
+
 \lx mm
 \ph máma
 \ue children
@@ -3357,7 +3610,7 @@
 \cf
 \mn mny
 \ng
-\dt 18/Apr/2025
+\dt 23/Jun/2025
 
 \lx mmýņ
 \ph mamájan
@@ -3371,6 +3624,17 @@
 
 \ng
 \dt 07/Feb/2025
+
+\lx mmņ
+\ph mamán
+\ps n
+\ge grandmother
+
+\lf Cpart = ttņ
+\le "grandfather"
+
+\ng
+\dt 23/Jun/2025
 
 \lx mny
 \ph máni
@@ -3436,6 +3700,17 @@
 \ge believe
 \ng
 \dt 12/Jan/2025
+
+\lx mrņky
+\ph maránki
+\ps n
+\ge smoke
+
+\lf
+\le
+
+\ng
+\dt 23/Jun/2025
 
 \lx ms
 \ph mása
@@ -3566,6 +3841,18 @@
 \ng
 \dt 28/Mar/2025
 
+\lx mw
+\ph mú
+\ps adj
+\ge old ; elderly
+
+\lf
+\le
+\sd new
+
+\ng
+\dt 23/Jun/2025
+
 \lx mwcy
 \ph múʔi
 \ps v,tr
@@ -3606,6 +3893,18 @@
 
 \ng
 \dt 12/Jan/2025
+
+\lx mwnw
+\ph múnu
+\ps adj
+\ge only ; exactly
+\xv cwmk kņt mņ mwnw
+\xe I want exactly three fish
+\lf
+\le
+
+\ng
+\dt 23/Jun/2025
 
 \lx mwnŵy
 \ph munáwi
@@ -3718,6 +4017,20 @@
 
 \ng
 \dt 12/Jan/2025
+
+\lx myrņ
+\ph mirán
+\ps v,in
+\ge red
+\de be red
+\ps v,tr
+\ge paint red
+
+\lf
+\le
+
+\ng
+\dt 19/Apr/2025
 
 \lx myrš
 \ph miráʃ
@@ -3851,6 +4164,50 @@
 \ng
 \dt 12/Jan/2025
 
+\lx mņtw
+\ph mántu
+\ps v,in
+\sn 1
+\ge round
+\de be round
+\sn 2
+\ge smooth
+\de be smooth
+\lf
+\le
+\sd new
+\ng
+\dt 06/Jul/2025
+
+\lx mšww
+\ph maʃwu
+\ps n
+\ge kiss ; smooch
+\re kiss
+\ps v,in
+\ge kiss ; smooch
+\de kiss, make out
+\re kiss
+\nt rare case of a noun zero deriving to a verb, likely due to its ideaphonic origin. the verbal extension is a colloqialism, as the more formal fv:{mšwwcņ} exists
+\lf Syn = mšwwcņ
+\le
+\sd Nonom
+\ng
+\dt 24/Jun/2025
+
+\lx mšwwcņ
+\ph maʃwúʔan
+\ps v,tr
+\ge kiss
+\de kiss ; give someone a quick smooch
+
+
+\lf
+\le
+
+\ng
+\dt 25/Jun/2025
+
 \lx mŵty
 \ph máwati
 \ph máwti
@@ -3860,7 +4217,7 @@
 \lf Root = mŵy
 
 \se - rw
-\mn mŵy
+
 \ps n-prep
 \ge alot of ; many
 \ng 12/Jan/2025
@@ -3876,7 +4233,7 @@
 \cf
 
 \ng
-\dt 25/Feb/2025
+\dt 29/Apr/2025
 
 \lx nhy
 \ph náhi
@@ -4073,14 +4430,13 @@
 \ph náxçin
 \ps n
 \ge bird
-\de beaked animal, bird
 
 \lf
 \le
 \cf
 \sd Nanim
 \ng
-\dt 13/Feb/2025
+\dt 29/Apr/2025
 
 \lx nxhyņ-rņh
 \ph náxçin dámha
@@ -4093,6 +4449,34 @@
 \sd Nanim
 \ng
 \dt 16/Feb/2025
+
+\lx nynm
+\ph nínama
+\ps v,tr
+\sn 1
+\ge pick ; pull out ; pluck
+\de pick, pull out, pluck. usually in regards to things which need fine-motor skills, like thread.
+\sn 2
+\ge annoy
+\de annoy or irritate, fi:{s.o}
+\se new
+\lf
+\le
+
+\ng
+\dt 06/Jul/2025
+
+\lx nyņty
+\ph níņti
+\ps n
+\ge thread ; string
+
+\lf
+\le
+\cf nynm
+\sd new ; Nmat
+\ng
+\dt 06/Jul/2025
 
 \lx nyš
 \ph níʃ
@@ -4378,6 +4762,28 @@
 \ng
 \dt 12/Jan/2025
 
+\lx rtš
+\ph ratáʃ
+\ps v,in
+\ge shit
+
+\lf
+\le
+
+\ng
+\dt 23/Jun/2025
+
+\lx rtšty
+\ph ratáʃti
+\ps n
+\ge shit
+
+\lf
+\le
+
+\ng
+\dt 23/Jun/2025
+
 \lx rw
 \ph rú
 \ps prep
@@ -4389,7 +4795,7 @@
 \de from, a source, from fi:{s.o}
 \sn 3
 \ge of
-\de of, marker for posetion
+\de of, marker for possetion
 \sn 4
 \ge because of
 \ps conj
@@ -4401,7 +4807,7 @@
 \cf
 
 \ng
-\dt 12/Jan/2025
+\dt 04/May/2025
 
 \lx rwc
 \ph rúʔa
@@ -4620,6 +5026,29 @@
 
 \ng
 \dt 17/Apr/2025
+
+\lx s rw
+\ph sá rú
+\ps prep-
+\ge without
+
+\lf
+\le
+\cf s ; rw
+\ng
+\dt 23/Jun/2025
+
+\lx s twr rw
+\va s twrr rw
+\ph sá túra rú
+\ps prep
+\ge next to ; alongside
+
+\lf
+\le
+\cf s ; twrr ; rw
+\ng
+\dt 23/Jun/2025
 
 \lx sg
 \ph sága
@@ -4918,6 +5347,36 @@
 \ng
 \dt 12/Jan/2025
 
+\lx swgwx
+\ph sugúx
+\ps v,in
+\sn 1
+\ge crawl
+\sn 2
+\ge slow
+\de be slow
+\ps adv
+\ge slowly
+
+\se tņt -
+\sf tņt swgwx
+\ps aux-v,tr
+\ge crawl into
+\se sŵ -
+\sf sŵ swgwx
+\ps aux-v,in
+\ge crawl around
+\se sycņ -
+\sf sycņ swgwx
+\ps aux-v,tr
+\ge crawl out of
+\lf
+\le
+
+\ng
+\dt 23/Jun/2025
+23/Jun/2025
+
 \lx swhy
 \ph súhi
 \ps n
@@ -4929,6 +5388,19 @@
 
 \ng
 \dt 12/Jan/2025
+
+\lx swhycņ
+\ph sxwíʔan
+\ps v,in
+\ge vocalize ; make a sound
+\ps v,tr
+\ge vocalize ; pronounce
+
+\lf
+\le
+
+\ng
+\dt 23/Jun/2025
 
 \lx sxtw
 \ph sáxtu
@@ -5243,13 +5715,13 @@
 \ps adv
 \ge completely
 \de completely, to the fullest extent or to completion
-
+\sd new
 \lf
 \le
 \cf
 
 \ng
-\dt 06/Apr/2025
+\dt 28/Apr/2025
 
 \lx tcs
 \ph taʔása
@@ -5278,13 +5750,12 @@
 \ee these posts are commonely utiliesd in many games to mark the edge of the playing field.
 \sn 2
 \ge rope
-\de taught piece of rope or cordage
+\de taut piece of rope or cordage
 \lf Root = tc
-\le "taught"
 \cf
 
 \ng
-\dt 12/Jan/2025
+\dt 21/Jun/2025
 
 \lx tcwņ
 \ph táʔun
@@ -5362,6 +5833,40 @@
 
 \ng
 \dt 12/Jan/2025
+
+\lx thyn
+\ph tahína
+\ps v,in
+\ge dull
+\de be dull
+
+\lf
+\le
+\sd new
+\ng
+\dt 23/Jun/2025
+
+\lx thyņhyņ
+\ph tahímhin
+\ps v,in
+\ge useless
+\de be useless
+\lf Root = thyn
+\le
+
+\ng
+\dt 23/Jun/2025
+
+\lx thyņty
+\ph tahínti
+\ps n
+\ge dull blade
+
+\lf Root = thyn
+\le
+
+\ng
+\dt 23/Jun/2025
 
 \lx tkry
 \ph takári
@@ -5536,6 +6041,17 @@
 \ng
 \dt 13/Feb/2025
 
+\lx ttņ
+\ph tatán
+\ps n
+\ge grandfather
+
+\lf Cpart = mmņ
+\le "mother"
+
+\ng
+\dt 23/Jun/2025
+
 \lx twg
 \ph túga
 \ps n
@@ -5565,6 +6081,16 @@
 \ng
 \dt 16/Feb/2025
 
+\lx twrr
+\ph turára
+\ps n
+\ge side
+\lf
+\le
+
+\ng
+\dt 23/Jun/2025
+
 \lx twrw
 \ph túru
 \ps v,in
@@ -5582,14 +6108,20 @@
 \de be proud
 \sd new
 \se - rw
+\sf twrw rw
 \ps v,in-prep
 \ge be proud of
+
+\se - mry
+\sf twrw mry
+\ps v,in-prep
+\ge not be afraid of
 \lf
 \le
 \cf
 
 \ng
-\dt 02/Mar/2025
+\dt 23/Jun/2025
 
 \lx twx
 \ph túx
@@ -5624,6 +6156,19 @@
 
 \ng agents of transitive verbs with the causitive are marked with fv:sa
 \dt 12/Jan/2025
+
+\lx txŵņ
+\ph táxwan
+\ps n
+\sn 1
+\ge group ; croud
+\sn 2
+\ge community
+\lf
+\le
+
+\ng
+\dt 23/Jun/2025
 
 \lx -ty
 \ph ti
@@ -5661,6 +6206,33 @@
 
 \ng
 \dt 12/Jan/2025
+
+\lx tyšt
+\ph tíʃtati
+\ps n
+\ge brush
+
+\lf Root = tyšt
+\le
+
+\ng
+\dt 23/Jun/2025
+
+\lx tyšt
+\ph tíʃta
+\ps v,tr
+\sn 1
+\ge brush off
+\re cleam
+\sn 2
+\ge clean
+\re clean
+
+\lf
+\le
+
+\ng
+\dt 08/Jun/2025
 
 \lx tyŵr
 \ph tíwara
@@ -5903,10 +6475,10 @@ táʃʀuti
 
 \lf Syn = kty twg
 \le
-\cf
+\cf ywcņ ; twg
 
 \ng
-\dt 16/Feb/2025
+\dt 02/May/2025
 
 \lx ywcņty
 \ph júʔanti
@@ -6012,6 +6584,16 @@ táʃʀuti
 \xe
 
 \dt 12/Jan/2025
+
+\lx ywŵņty
+\ph juwánti
+\ps n
+\ge throwing stick
+
+\lf Root = ywŵņ
+\le
+
+\ng
 
 \lx ý
 \ph já
@@ -6188,6 +6770,28 @@ táʃʀuti
 
 \ng
 \dt 03/Apr/2025
+
+\lx ýšk
+\ph yáʃka
+\ps v,in
+\ge sit ; crouch
+
+\lf
+\le
+
+\ng
+\dt 23/Jun/2025
+
+\lx ýškty
+\pn yáʃkati
+\ps n
+\ge lap
+
+\lf Root = ýšk
+\le
+
+\ng
+\dt 23/Jun/2025
 
 \lx ŵcņ
 \ph wáʔan
@@ -6517,6 +7121,25 @@ táʃʀuti
 \ng
 \dt 18/Apr/2025
 
+\lx ǧynw
+\ph gʷinu
+\ps v,in
+\sn 1
+\re work
+\ge work ; function
+\de function, work, a machine
+\sn 2
+\ge work out
+\de work out, end well, a plan or event
+
+\xv cn cgņ hny t chwty hk, ǧynw cš hsy
+\xe as long as you listen for my signal, this will surely work out
+\lf Root = cynw
+\le
+
+\ng
+\dt 23/Jun/2025
+
 \lx ǧyny
 \ph gʷíni
 \ps v,in
@@ -6592,15 +7215,4 @@ táʃʀuti
 
 \ng
 \dt 07/Feb/2025
-
-\lx
-\ph
-\ps
-\ge
-
-\lf
-\le
-
-\ng
-\dt 19/Apr/2025
 
